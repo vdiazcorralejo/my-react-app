@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Chente Diaz
+          Learn React with Chente Diaz 2025 CDK PIPELINE
         </a>
       </header>
     </div>
